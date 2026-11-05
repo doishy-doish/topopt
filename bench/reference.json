@@ -1,0 +1,25 @@
+{
+ "note": "mirrored from doishy-doish/topo-cpp bench contracts (v1 + corpus-v3 + 3d-v2); tip_tol=0.01 traj_tol=0.02",
+ "contracts": {
+  "cantilever": {
+   "tip": 880.2047,
+   "cg": 402
+  },
+  "bridge": {
+   "tip": 36.4412,
+   "cg": 328
+  },
+  "mbb": {
+   "tip": 62.9389,
+   "cg": 578
+  },
+  "lbracket": {
+   "tip": 49.8555,
+   "cg": 470
+  },
+  "d3": {
+   "tip": 26.05,
+   "cg": 161
+  }
+ }
+}
